@@ -16,7 +16,7 @@ other agent  →  implements, tests, ships    (cheap model, executes)
 npx skills add shadcn/improve
 ```
 
-Works in any agent that supports the [Agent Skills](https://skills.sh) format. The plans it writes are plain markdown, so any agent (or human) can pick them up.
+Works in any agent that supports [Agent Skills](https://agentskills.io) format. The plans it writes are plain markdown, so any agent (or human) can pick them up.
 
 ## Usage
 
